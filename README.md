@@ -1,5 +1,5 @@
-![](https://github.com/michioxd/michioxd/blob/main/header.jpg?raw=true)
-*__say no with shift+character:)__*
+![](https://i.imgur.com/zTLTEGD.jpeg)
+
 # hello, my name is michio
 
 nothing 2 see here :( - just a sagiri + radial blur pic :(
