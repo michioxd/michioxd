@@ -2,9 +2,7 @@
 
 # hello, my name is michio
 
-nothing 2 see here :( - just a sagiri + radial blur pic :(
-
-i love **neko** :3 but **my waifu** is **sagiri** :3333333333
+updated :) nothing here :) yea, updated but nothing here, yes, im updated this file but it dont have anything here:)
 
 ## follow me :)
 
