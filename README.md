@@ -1,18 +1,15 @@
-
 ### hello 👋, i'm Mashiro (aka michioxd or michio)
 
 i'm making so much stupid thing... nyaa~
 
 ![TautInformalIndianjackal-size_restricted](https://user-images.githubusercontent.com/80969068/205474346-ccc90703-3b4f-47ce-8304-0e8e8429203e.gif)
 
+```cs
+Console.WriteLine("LOVE U HEHE :3");
+```
 
 <details>
-<Summary>my stats</summary>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michioxd&theme=transparent&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=michioxd&theme=transparent&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-</details>
-<details>
-<summary>skills</summary>
+<summary><b>🚀 my stupid skills</b></summary>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -37,7 +34,12 @@ i'm making so much stupid thing... nyaa~
 
 </details>
 <details>
-<Summary>you can find me at</summary>
+<Summary><b>📊 my GitHub statistics</b></summary>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michioxd&theme=transparent&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=michioxd&theme=transparent&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+<details>
+<Summary><b>🔍 you can find me at</b></summary>
 
 [![GitHub](https://user-images.githubusercontent.com/80969068/205474459-a95b9c58-8e7d-43b0-a79c-388ce8a4a652.png)](https://github.com/michioxd)
 [![DeviantArt](https://user-images.githubusercontent.com/80969068/205474493-512635f7-26d8-4f5d-9f58-597e3698b89c.png)](https://www.deviantart.com/michioxd)
@@ -48,7 +50,7 @@ i'm making so much stupid thing... nyaa~
 </Details>
 
 <Details>
-<Summary>contact me?</summary>
+<Summary><b>📞 contact me?</b></summary>
 
 - email: [michiokawaii@protonmail.com](mailto:michiokawaii@protonmail.com)
 - matrix: [@michioxd:matrix.org](https://matrix.to/#/@michioxd:matrix.org?via=matrix.org)
