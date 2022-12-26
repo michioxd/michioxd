@@ -1,9 +1,10 @@
-### hello 👋, i'm Mashiro (aka michioxd or michio)
+### 👋 hi there, i'm Mashiro (aka michioxd or michio)
 
 i'm making so much stupid thing... nyaa~
 
-![TautInformalIndianjackal-size_restricted](https://user-images.githubusercontent.com/80969068/205474346-ccc90703-3b4f-47ce-8304-0e8e8429203e.gif)
+![nya](https://github.com/michioxd/michioxd/raw/main/1459701092-3c3e175c6eb817ad72f3a5d1813e9d0a.gif)
 
+nyaan~~
 ```cs
 Console.WriteLine("LOVE U HEHE :3");
 ```
