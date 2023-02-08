@@ -62,3 +62,6 @@ p/s: i won't reply any pm from messenger. thanks!
 </Details>
 
 ![](https://komarev.com/ghpvc/?username=michioxd)
+
+### [👉AYOOOOO CLICK HERR JOIN MY DISCORD SERVER (⁠≧⁠▽⁠≦⁠)](https://discord.gg/w8AadVPBwg)
+onegaiiii(⁠っ⁠˘̩⁠╭⁠╮⁠˘̩⁠)⁠っ
