@@ -2,9 +2,17 @@
 
 i'm making so much stupid thing... nyaa~
 
-![nya](https://github.com/michioxd/michioxd/raw/main/1459701092-3c3e175c6eb817ad72f3a5d1813e9d0a.gif)
+![main](https://user-images.githubusercontent.com/80969068/234015856-3d287c83-c0a8-4cea-842a-910dfc8ed9aa.gif)
 
 nyaan~~
+
+<details>
+  <Summary>want 60fps?</Summary>
+  
+  https://user-images.githubusercontent.com/80969068/234015575-62153e56-bc8d-4e34-8a62-1b743df57d78.mp4
+  
+</details>
+
 ```cs
 Console.WriteLine("LOVE U HEHE :3");
 ```
