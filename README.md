@@ -1,22 +1,26 @@
 ### 👋 hi there, i'm Mashiro (aka michioxd or michio)
 
-i'm making so much stupid thing... nyaa~
+i'm making so much baka thing... nyaa~
 
-![main](https://user-images.githubusercontent.com/80969068/234015856-3d287c83-c0a8-4cea-842a-910dfc8ed9aa.gif)
+![@michioxd_banner](https://user-images.githubusercontent.com/80969068/234179258-4482e388-f800-4809-8f93-2441d2aaaac9.gif)
 
-nyaan~~
-
-<details>
-  <Summary>want 60fps?</Summary>
-  
-  https://user-images.githubusercontent.com/80969068/234015575-62153e56-bc8d-4e34-8a62-1b743df57d78.mp4
-  
-</details>
-
-```cs
-Console.WriteLine("LOVE U HEHE :3");
+```txt
+somthing wonderful will come your way - 何か素晴らしいことがあなたの進む道にやってくるでしょう
 ```
 
+<details>
+  <Summary>click here for 60fps</Summary>
+
+  https://user-images.githubusercontent.com/80969068/234179300-2d4bd552-bd67-406b-a330-27c7172af303.mp4 
+  
+  Software: **Adobe After Effect CC 2019 (for FX)** with **Adobe Media Encoder CC 2019 (for Encoding)**
+  
+  Sauce: **[pixiv (AI-generated)](https://www.pixiv.net/en/artworks/104280892)**
+  
+  Font: **[Prata](https://fonts.google.com/specimen/Prata)**
+</details>
+
+`▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬`
 <details>
 <summary><b>🚀 my stupid skills</b></summary>
 
@@ -61,7 +65,7 @@ Console.WriteLine("LOVE U HEHE :3");
 - telegram: [michioxd](https://t.me/michioxd)
 - discord: [michioxd☆彡#5144](https://discord.com/users/536175851247501347)
 
-p/s: i won't reply any pm from messenger. thanks!
+p/s: i won't reply any pm from **Facebook Messenger**. thanks!
 </Details>
 
 ![](https://komarev.com/ghpvc/?username=michioxd)
