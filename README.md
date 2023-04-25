@@ -73,3 +73,9 @@ p/s: i won't reply any pm from **Facebook Messenger**. thanks!
 
 ### [👉AYOOOOO CLICK HERR JOIN MY DISCORD SERVER (⁠≧⁠▽⁠≦⁠)](https://discord.gg/w8AadVPBwg)
 onegaiiii(⁠っ⁠˘̩⁠╭⁠╮⁠˘̩⁠)⁠っ
+<br />
+<br />
+<br />
+<p align="right">
+powered by nekochoko&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/80969068/234215202-d1a3df79-b6e8-4a8b-baaf-ba0368eca0db.png" alt="nekochoko" />
+</p>
