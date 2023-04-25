@@ -50,6 +50,7 @@ somthing wonderful will come your way - 何か素晴らしいことがあなた�
 <Summary><b>🔍 you can find me at</b></summary>
 
 [![GitHub](https://user-images.githubusercontent.com/80969068/205474459-a95b9c58-8e7d-43b0-a79c-388ce8a4a652.png)](https://github.com/michioxd)
+[![Discord](https://user-images.githubusercontent.com/80969068/234183022-72de9c77-814d-4b2e-9596-d79ad13cb1cd.png)](https://discord.com/users/536175851247501347)
 [![DeviantArt](https://user-images.githubusercontent.com/80969068/205474493-512635f7-26d8-4f5d-9f58-597e3698b89c.png)](https://www.deviantart.com/michioxd)
 [![Twitter](https://user-images.githubusercontent.com/80969068/205474549-25c6b73a-90ef-43e4-9879-c98015e67d71.png)](https://twitter.com/michioxd)
 [![Facebook](https://user-images.githubusercontent.com/80969068/205474577-956db2c3-b7c0-410a-b653-c65653e9a93d.png)](https://fb.com/michioxd)
