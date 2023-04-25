@@ -20,10 +20,9 @@ somthing wonderful will come your way - 何か素晴らしいことがあなた�
   Font: **[Prata](https://fonts.google.com/specimen/Prata)**
 </details>
 
-`▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬`
-<details>
+<details>  
 <summary><b>🚀 my stupid skills</b></summary>
-
+  
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,6 +39,7 @@ somthing wonderful will come your way - 何か素晴らしいことがあなた�
 ![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
+  `i can use 5 programing language, for real, hehe :), or i'm nub :(`
 </details>
 <details>
 <Summary><b>📊 my GitHub statistics</b></summary>
