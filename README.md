@@ -1,6 +1,6 @@
 ### 👋 hi there, i'm Michio (aka michioxd or Mashiro)
 
-*`Michio da nekooooooooooooooooo!!!`*
+*`michio da nekooooooooooooooooo!!!`*
 
 i'm making so much baka thing... nyaan~
 
@@ -22,6 +22,10 @@ somthing wonderful will come your way - 何か素晴らしいことがあなた�
   Font: **[Prata](https://fonts.google.com/specimen/Prata)**
 </details>
 
+#### how to call  my name
+
+`michi`, `michio`, `mashiro`, all fine ehe~
+
 #### 🚀 my stupid skills
 
 <img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/><img width="50" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" title="Material UI"/><img width="50" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/><img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/><img width="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/><img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
@@ -30,7 +34,7 @@ somthing wonderful will come your way - 何か素晴らしいことがあなた�
 
 #### 📊 my GitHub statistics
 
-[![michioxd's GitHub stats](https://github-readme-stats.vercel.app/api?username=michioxd&theme=transparent&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![michioxd's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=michioxd&theme=transparent&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![michioxd's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=michioxd)](https://github.com/anuraghazra/github-readme-stats)
+[![michioxd's GitHub stats](https://github-readme-stats.vercel.app/api?username=michioxd&theme=transparent&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![michioxd's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=michioxd&theme=transparent&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![michioxd's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=michioxd&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🔍 you can find me at
 
