@@ -34,7 +34,7 @@ somthing wonderful will come your way - 何か素晴らしいことがあなた�
 
 #### 📊 my GitHub statistics
 
-[![michioxd's GitHub stats](https://github-readme-stats.vercel.app/api?username=michioxd&theme=transparent&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![michioxd's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=michioxd&theme=transparent&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![michioxd's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=michioxd&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![michioxd's GitHub stats](https://github-readme-stats.vercel.app/api?username=michioxd&theme=transparent&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![michioxd's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=michioxd&theme=transparent&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![michioxd's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=michioxd&theme=transparent&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🔍 you can find me at
 
