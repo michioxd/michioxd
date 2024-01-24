@@ -1,3 +1,9 @@
+<p align="center">
+  <img align="center" src="https://github.com/michioxd/michioxd/assets/80969068/481a4cf6-c6f2-4856-a0ac-46e69dfbde34" />
+  <b>&nbsp;&nbsp;nyan! powered neko!</b>
+
+  ![109217657_p1](https://github.com/michioxd/michioxd/assets/80969068/4fe373dc-20b2-4eb2-8b84-452508ff8417)
+</p>
 <img align="left" src="https://www.gravatar.com/avatar/35421891b164c29bab7640be09832acd939a3ea15fccbfb68144befef58d6d82?s=150" />
 
 ### 👋 hi there, i'm Michio (aka michioxd or Mashiro)
@@ -61,8 +67,3 @@ p/s: i won't reply any pm from **Facebook Messenger**. thanks!
 </Details>
 
 ![](https://komarev.com/ghpvc/?username=michioxd)
-
-<br />
-<p align="right">
-<img src="https://github.com/michioxd/michioxd/assets/80969068/5068100e-e2db-49aa-88bd-ceed09de6e4b" />
-</p>
