@@ -2,7 +2,8 @@
   <img align="center" src="https://github.com/michioxd/michioxd/assets/80969068/481a4cf6-c6f2-4856-a0ac-46e69dfbde34" />
   <b>&nbsp;&nbsp;nyan! powered neko!</b>
 
-  ![109217657_p1](https://github.com/michioxd/michioxd/assets/80969068/4fe373dc-20b2-4eb2-8b84-452508ff8417)
+  ![20231204_150443 copy](https://github.com/michioxd/michioxd/assets/80969068/cc547362-8d62-4fb8-bcc0-54087ace18d6)
+
 </p>
 <img align="left" src="https://www.gravatar.com/avatar/35421891b164c29bab7640be09832acd939a3ea15fccbfb68144befef58d6d82?s=150" />
 
@@ -12,6 +13,7 @@
 
 i'm making so much baka thing, i love kawaii thing, i love nekooooo, i love nekomimiiiiiiiiii... nyaan~
 
+<br />
 <br />
 
 <p align="center">
@@ -37,9 +39,7 @@ i'm making so much baka thing, i love kawaii thing, i love nekooooo, i love neko
 
 ## 🚀 my stupid skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,cpp,php,sass,nodejs,react,materialui,mongodb,mysql,dotnet,ps,pr)](https://skillicons.dev)
-
-  `i can use 5 programing language, for real, hehe :), or i'm nub :(`
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,go,cpp,php,sass,nodejs,react,materialui,mongodb,mysql,dotnet,ps,pr)](https://skillicons.dev)
 
 ## 📊 my statistics
 
@@ -59,7 +59,7 @@ i'm making so much baka thing, i love kawaii thing, i love nekooooo, i love neko
 <Summary><h2>📞 contact me?</h2></summary>
 
 - email: [michiokawaii@protonmail.com](mailto:michiokawaii@protonmail.com)
-- matrix: [@michioxd:matrix.org](https://matrix.to/#/@michioxd:matrix.org?via=matrix.org)
+- matrix: [@michioxd:matrix.org](https://matrix.to/#/@michioxd:matrix.org?via=matrix.org) [deprecated]
 - telegram: [michioxd](https://t.me/michioxd)
 - discord: [michioxd (formerly known as `michioxd☆彡#5144`)](https://discord.com/users/536175851247501347)
 
