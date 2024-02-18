@@ -43,7 +43,7 @@ i'm making so much baka thing, i love kawaii thing, i love nekooooo, i love neko
 
 ## 📊 my statistics
 
-[![michioxd's GitHub stats](https://github-readme-stats.vercel.app/api?username=michioxd&theme=transparent&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![michioxd's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=michioxd&theme=transparent&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![michioxd's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=michioxd&theme=transparent&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=michioxd&amp;theme=dracula&amp;show_icons=true&amp;count_private=true" alt="michioxd&#39;s GitHub stats"></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michioxd&amp;theme=dracula&amp;layout=compact&amp;count_private=true" alt="michioxd&#39;s GitHub stats"></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=michioxd&amp;theme=dracula&amp;layout=compact&amp;show_icons=true" alt="michioxd&#39;s WakaTime stats"></a></p>
 
 ## 🔍 you can find me at
 
@@ -58,12 +58,12 @@ i'm making so much baka thing, i love kawaii thing, i love nekooooo, i love neko
 <Details>
 <Summary><h2>📞 contact me?</h2></summary>
 
-- email: [michiokawaii@protonmail.com](mailto:michiokawaii@protonmail.com)
-- matrix: [@michioxd:matrix.org](https://matrix.to/#/@michioxd:matrix.org?via=matrix.org) [deprecated]
-- telegram: [michioxd](https://t.me/michioxd)
+- email: [michiokawaii@protonmail.com](mailto:michioxd@protonmail.com)
 - discord: [michioxd (formerly known as `michioxd☆彡#5144`)](https://discord.com/users/536175851247501347)
+- telegram: [michioxd](https://t.me/michioxd)
+- matrix: [@michioxd:matrix.org](https://matrix.to/#/@michioxd:matrix.org?via=matrix.org) [deprecated]
 
-p/s: i won't reply any pm from **Facebook Messenger**. thanks!
+p/s: i won't and **never** reply any pm from **Facebook Messenger**. thanks!
 </Details>
 
 ![](https://komarev.com/ghpvc/?username=michioxd)
