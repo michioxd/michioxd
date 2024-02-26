@@ -43,7 +43,9 @@ i'm making so much baka thing, i love kawaii thing, i love nekooooo, i love neko
 
 ## 📊 my statistics
 
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=michioxd&amp;theme=dracula&amp;show_icons=true&amp;count_private=true" alt="michioxd&#39;s GitHub stats"></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michioxd&amp;theme=dracula&amp;layout=compact&amp;count_private=true" alt="michioxd&#39;s GitHub stats"></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=michioxd&amp;theme=dracula&amp;layout=compact&amp;show_icons=true" alt="michioxd&#39;s WakaTime stats"></a></p>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=michioxd&amp;theme=dracula&amp;show_icons=true&amp;count_private=true" alt="michioxd&#39;s GitHub stats"></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michioxd&amp;theme=dracula&amp;layout=compact&amp;count_private=true" alt="michioxd&#39;s GitHub stats"></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=michioxd&amp;theme=dracula&amp;layout=compact&amp;show_icons=true" alt="michioxd&#39;s WakaTime stats"></a>
+  <span><b>note: </b>wakatime stats from dec 12 2023</span>
+</p>
 
 ## 🔍 you can find me at
 
