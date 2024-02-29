@@ -60,7 +60,7 @@ i'm making so much baka thing, i love kawaii thing, i love nekooooo, i love neko
 <Details>
 <Summary><h2>📞 contact me?</h2></summary>
 
-- email: [michioxd@protonmail.com](mailto:michioxd@protonmail.com)
+- email: [michioxd@proton.me](mailto:michioxd@proton.me)
 - discord: [michioxd (formerly known as `michioxd☆彡#5144`)](https://discord.com/users/536175851247501347)
 - telegram: [michioxd](https://t.me/michioxd)
 - matrix: [@michioxd:matrix.org](https://matrix.to/#/@michioxd:matrix.org?via=matrix.org) [deprecated]
