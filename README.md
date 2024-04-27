@@ -65,6 +65,8 @@ i'm making so much baka thing, i love kawaii thing, i love nekooooo, i love neko
 - telegram: [michioxd](https://t.me/michioxd)
 - matrix: [@michioxd:matrix.org](https://matrix.to/#/@michioxd:matrix.org?via=matrix.org) [deprecated]
 
+[see more](./contact.md)
+
 p/s: i won't and **never** reply any pm from **Facebook Messenger**. thanks!
 </Details>
 
