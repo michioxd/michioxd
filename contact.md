@@ -7,7 +7,7 @@
 Liên hệ để làm việc:
 - Discord: [michioxd](https://discord.com/users/536175851247501347)
 - Telegram: [@michioxd](https://t.me/michioxd)
-- Email: [michio.haiyaku@gmail.com](mailto:michio.haiyaku@gmail.com)
+- Email: [neko@michioxd.ch](mailto:neko@michioxd.ch)
 - Matrix: [@michioxd:matrix.org](https://matrix.to/#/@michioxd:matrix.org?via=matrix.org)
 
 Ưu tiên sử dụng các phương thức liên hệ từ trên xuống dưới.
@@ -23,7 +23,7 @@ Liên hệ để làm việc:
 Contact for works:
 - Discord: [michioxd](https://discord.com/users/536175851247501347)
 - Telegram: [@michioxd](https://t.me/michioxd)
-- Email: [michio.haiyaku@gmail.com](mailto:michio.haiyaku@gmail.com)
+- Email: [neko@michioxd.ch](mailto:neko@michioxd.ch)
 - Matrix: [@michioxd:matrix.org](https://matrix.to/#/@michioxd:matrix.org?via=matrix.org)
 
 Prioritize using contact methods by descending.
