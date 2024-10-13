@@ -4,7 +4,9 @@
 
 *`michio da nekooooooooooooooooo!!!`*
 
-i'm making so much baka thing, i love kawaii thing, i love nekooooo, i love nekomimiiiiiiiiii..., trying learning japanese, and i'm a weeb too! 🌸
+i'm making so much baka thing, i love kawaii thing, i love nekooooo, i love nekomimiiiiiiiiii..., fullstack dev, trying learning japanese, and i'm a weeb too! 🌸
+
+currently i'm the main dev for [Mon Fansub Website](https://www.monfansubvn.com).
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/80969068/234179258-4482e388-f800-4809-8f93-2441d2aaaac9.gif" />
