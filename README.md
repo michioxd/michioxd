@@ -44,7 +44,7 @@ currently i'm the main dev for [Mon Fansub Website](https://www.monfansubvn.com)
 - email: [neko@michioxd.ch](mailto:neko@michioxd.ch)
 - discord: [michioxd (formerly known as `michioxd☆彡#5144`)](https://discord.com/users/536175851247501347)
 - telegram: [michioxd](https://t.me/michioxd)
-- matrix: [@michioxd:matrix.org](https://matrix.to/#/@michioxd:matrix.org?via=matrix.org) [deprecated]
+- ~~matrix: [@michioxd:matrix.org](https://matrix.to/#/@michioxd:matrix.org?via=matrix.org) [deprecated]~~
 
 [see more](./contact.md) or **[donate](https://github.com/michioxd/michioxd/blob/main/contact.md#donation)**
 
