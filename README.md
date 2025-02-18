@@ -14,10 +14,6 @@ i'm making so much baka thing, i love kawaii thing, i love nekooooo, i love neko
 
 `michio`, `mashiro` or `neko` *(i loveeeeee nekooooooo)* all fine ehe~
 
-## 🚀 my stupid skills
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,go,cpp,php,sass,nodejs,react,materialui,mongodb,mysql,dotnet,ps,pr)](https://skillicons.dev)
-
 ## 📊 my statistics
 
 <p align="center">
