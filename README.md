@@ -1,11 +1,12 @@
+## sponsored (nah :)
+
 <img src="https://github.com/user-attachments/assets/793a9293-4cfe-4635-a263-ad54c8c30e31" align="left" width="250px" />
 
-# the most powerful processor in the world
+## the most powerful processor in the world
 
-with neko© nyanium™ 4 processor wwwwwwww
+with **neko© nyanium™ 4 processor** wwwwwwww
 
 [svg](https://github.com/michioxd/michioxd/blob/main/neko_nyanium_4.svg) - [deviantart](https://www.deviantart.com/michioxd/art/1179935514)
-
 
 ![114345595_p1](https://github.com/user-attachments/assets/4d5bbfe8-b410-4bca-b57a-c4a5a1c7a0de)
 
