@@ -14,6 +14,10 @@ i'm making so much baka thing, i love kawaii thing, i love nekooooo, i love neko
 
 `michio`, `mashiro` or `neko` *(i loveeeeee nekooooooo)* all fine ehe~
 
+## 🚀 skills?
+
+im noob. i only can write hello world app in any language i can use (or not) shhhh.
+
 ## 📊 my statistics
 
 <p align="center">
@@ -44,5 +48,8 @@ i'm making so much baka thing, i love kawaii thing, i love nekooooo, i love neko
 
 p/s: i won't and **never** reply any pm from **Facebook Messenger**. thanks!
 </Details>
+
+> [!TIP]
+> if you have any question or for work, please mail me or dm me in discord or telegram. **do not dm in facebook messenger because i don't use it anymore (fuck you mark zuckerberg)!** you will be ignore cuz i cannot see you.
 
 ![](https://komarev.com/ghpvc/?username=michioxd)
