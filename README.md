@@ -52,4 +52,11 @@ p/s: i won't and **never** reply any pm from **Facebook Messenger**. thanks!
 > [!TIP]
 > if you have any question or for work, please mail me or dm me in discord or telegram. **do not dm in facebook messenger because i don't use it anymore (fuck you mark zuckerberg)!** you will be ignore cuz i cannot see you.
 
+<details>
+  <summary>fact</summary>
+  
+  he not she btw..
+  
+</details>
+
 ![](https://komarev.com/ghpvc/?username=michioxd)
