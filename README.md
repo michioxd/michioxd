@@ -55,8 +55,16 @@ p/s: i won't and **never** reply any pm from **Facebook Messenger**. thanks!
 <details>
   <summary>fact</summary>
   
-  he not she btw..
+  he not she btw.. what do you think lol
   
 </details>
+
+## love my work?
+
+donate me so i can buy more nekoooo^^
+
+[![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg)](https://www.buymeacoffee.com/michioxd)
+
+<a href='https://liberapay.com/michioxd/' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://liberapay.com/assets/liberapay/icon-v2_black-on-yellow.svg?save_as=liberapay_logo_black-on-yellow.svg' border='0' alt='Librepay' /></a>
 
 ![](https://komarev.com/ghpvc/?username=michioxd)
