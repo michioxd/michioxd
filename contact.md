@@ -38,6 +38,6 @@ Prioritize using contact methods by descending.
 
 If you love my project, you can gimme a star on my project you love, or you can donate me by:
 
-<a href='https://ko-fi.com/I3I8VQ8T8' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+[![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg)](https://www.buymeacoffee.com/michioxd)
 
 <a href='https://liberapay.com/michioxd/' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://liberapay.com/assets/liberapay/icon-v2_black-on-yellow.svg?save_as=liberapay_logo_black-on-yellow.svg' border='0' alt='Librepay' /></a>
