@@ -20,12 +20,7 @@ im noob. i only can write hello world app in any language i can use (or not) shh
 
 ## 📊 my statistics
 
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=michioxd&amp;theme=dracula&amp;show_icons=true&amp;count_private=true" alt="michioxd&#39;s GitHub stats"></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michioxd&amp;theme=dracula&amp;layout=compact&amp;count_private=true" alt="michioxd&#39;s GitHub stats"></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=michioxd&amp;theme=dracula&amp;layout=compact&amp;show_icons=true" alt="michioxd&#39;s WakaTime stats"></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michioxd&theme=onedark" alt="michioxd" /></a>
-  <p align="center"><b>note: </b>wakatime stats from dec 12 2023</p>
-  
-</p>
+![https://githubcard.com](https://githubcard.com/michioxd.svg?d=oylAHV7e)
 
 ## 🔍 you can find me at
 
