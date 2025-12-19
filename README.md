@@ -34,6 +34,8 @@ im noob. i only can write hello world app in any language i can use (or not) shh
 <Details>
 <Summary><h2>📞 contact me?</h2></summary>
 
+feel free to ask me something you want. just ask, please don't ask for a hi or hello (see [nohello.net](https://nohello.net/en/))
+
 - email: [neko@michioxd.ch](mailto:neko@michioxd.ch)
 - discord: [michioxd (formerly known as `michioxd☆彡#5144`)](https://discord.com/users/536175851247501347)
 - telegram: [michioxd](https://t.me/michioxd)
