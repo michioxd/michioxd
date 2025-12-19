@@ -31,10 +31,9 @@ im noob. i only can write hello world app in any language i can use (or not) shh
 [![YouTube](https://user-images.githubusercontent.com/80969068/205474800-48c30fbd-036c-4f5b-85a8-f41e7cebbc4c.png)](https://www.youtube.com/@michioxd)
 [![My Website](https://user-images.githubusercontent.com/80969068/205474654-817a8eda-fb6b-45c2-b398-f0b08ae7adcc.png)](https://michioxd.github.io)
 
-<Details>
-<Summary><h2>📞 contact me?</h2></summary>
+## 📞 contact me?
 
-if you're genuinely serious about asking me something, feel free to ask. just ask, please don't ask for a hi or hello (see [nohello.net](https://nohello.net/en/)). you will be completely ignored if you just say hi.
+
 
 - email: [neko@michioxd.ch](mailto:neko@michioxd.ch)
 - discord: [michioxd (formerly known as `michioxd☆彡#5144`)](https://discord.com/users/536175851247501347)
@@ -44,10 +43,11 @@ if you're genuinely serious about asking me something, feel free to ask. just as
 [see more](./contact.md) or **[donate](https://github.com/michioxd/michioxd/blob/main/contact.md#donation)**
 
 p/s: i won't and **never** reply any pm from **Facebook Messenger**. thanks!
-</Details>
 
 > [!TIP]
-> if you have any question or for work, please mail me or dm me in discord or telegram. **do not dm in facebook messenger because i don't use it anymore (fuck you mark zuckerberg)!** you will be ignore cuz i cannot see you.
+> if you're genuinely serious about asking me something, feel free to ask. just ask, please don't ask for a hi or hello (see [nohello.net](https://nohello.net/en/)). you will be completely ignored if you just say hi.
+> 
+> work with me? please mail me or dm me in discord or telegram. **do not dm in facebook messenger because i don't use it anymore (fuck you mark zuckerberg)!** you will be ignore cuz i cannot see you.
 
 <details>
   <summary>fact</summary>
