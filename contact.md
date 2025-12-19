@@ -29,7 +29,7 @@ Contact for works:
 Prioritize using contact methods by descending.
 
 > [!IMPORTANT]  
-> If you have any question, just ask (before ask, please see [nohello.net](https://nohello.net/en))
+> Feel free to ask me something you want. Just ask, please don't ask for a hi or hello (see [nohello.net](https://nohello.net/en/)). You will be completely ignored if you just say hi.
 
 > [!NOTE]
 > All Social Network i only accept friend or dm if it necessary.
