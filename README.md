@@ -45,7 +45,7 @@ im noob. i only can write hello world app in any language i can use (or not) shh
 p/s: i won't and **never** reply any pm from **Facebook Messenger**. thanks!
 
 > [!TIP]
-> if you're genuinely serious about asking me something, feel free to ask. just ask, please don't ask for a hi or hello (see [nohello.net](https://nohello.net/en/)). you will be completely ignored if you just say hi.
+> if you're genuinely serious about asking me something, feel free to ask. just ask, please don't ask for a hi or hello (see [nohello.net](https://nohello.net/en/)). you will be completely ignored if you just say hi. **english only** (vietnamese is optional if you know)
 > 
 > work with me? please mail me or dm me in discord or telegram. **do not dm in facebook messenger because i don't use it anymore (fuck you mark zuckerberg)!** you will be ignore cuz i cannot see you.
 
