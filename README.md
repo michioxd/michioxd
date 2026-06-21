@@ -35,7 +35,7 @@ im noob. i only can write hello world app in any language i can use (or not) shh
 
 
 
-- email: [neko@michioxd.ch](mailto:neko@michioxd.ch)
+- email: neko**[!at!]**michioxd.ch
 - discord: [michioxd (formerly known as `michioxd☆彡#5144`)](https://discord.com/users/536175851247501347)
 - telegram: [michioxd](https://t.me/michioxd)
 - ~~matrix: [@michioxd:matrix.org](https://matrix.to/#/@michioxd:matrix.org?via=matrix.org) [deprecated]~~
